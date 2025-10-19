@@ -143,4 +143,3 @@ plt.show()
 sns.pairplot(df[["Volumen Fuera", "Volumen Dentro", "Precio Fuera Iva", "Precio Dentro Iva"]])
 plt.suptitle("Matriz de dispersión de variables numéricas", y=1.02)
 plt.show()
-
